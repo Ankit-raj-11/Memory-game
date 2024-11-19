@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ankit-raj-11/Memory-game.git/static/css/main.ebb9f309.css",
+    "main.js": "/Ankit-raj-11/Memory-game.git/static/js/main.fb16dff4.js",
+    "index.html": "/Ankit-raj-11/Memory-game.git/index.html",
+    "main.ebb9f309.css.map": "/Ankit-raj-11/Memory-game.git/static/css/main.ebb9f309.css.map",
+    "main.fb16dff4.js.map": "/Ankit-raj-11/Memory-game.git/static/js/main.fb16dff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebb9f309.css",
+    "static/js/main.fb16dff4.js"
+  ]
+}
